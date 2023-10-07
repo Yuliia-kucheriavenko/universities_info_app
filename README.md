@@ -1,0 +1,1 @@
+# universities_info_app
