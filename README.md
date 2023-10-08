@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+[Demo Page](https://yuliia-kucheriavenko.github.io/universities_info_app/)
+Requests are sent localy, but for working with GitHub Pages or other hosting - need https
+We have http://universities.hipolabs.com
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
